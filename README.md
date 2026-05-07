@@ -1,35 +1,29 @@
-### Hi 👋 I'm Konstantin
-
 ### Hi, I'm Konstantin
 
 iOS developer based in Ålesund, Norway.
 
 I build practical iOS apps focused on real-life use cases: audio, accessibility, BLE devices, language learning, kids apps, and local services.
 
-#### Current projects
-
 ### 📱 Bølge
-AI-assisted radio and news app.
+Radio and news app with live AI-assisted text support.
 
 ### 🪑 Chair Control
-BLE-based smart chair control.
+BLE-based app for controlling a smart chair.
 
 ### 🎓 Learn Norwegian
-Structured language learning app.
+Structured language learning app for Norwegian practice.
 
-### 🧸 Kids App
-Educational app / game for children.
+### 🧸 Kids Language Game
+Educational language game for children.
 
 ### 🏘️ Local Services
-Practical tools for local community services.
+Apps and tools for municipality / community use cases.
 
 ### 🧰 Stack
 Swift · SwiftUI · Combine · CoreBluetooth · AVFoundation · CoreData
 
-#### Focus
+### 📍 Location
+Ålesund, Norway
 
-Practical apps, accessibility, audio experiences, connected devices, and language learning.
-
-📫 Get in touch
-📧 norgik@hotmail.com
-📍 Ålesund, Norway 🇳🇴
+### 📬 Contact
+norgik@hotmail.com

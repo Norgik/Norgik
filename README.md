@@ -6,6 +6,8 @@ I build practical iOS apps focused on real-life use cases: audio, accessibility,
 
 ### 📱 Bølge
 Radio and news app with live AI-assisted text support.
+https://apps.apple.com/no/app/b%C3%B8lge/id6762057664
+Bølge
 
 ### 🪑 Chair Control
 BLE-based app for controlling a smart chair.

@@ -12,13 +12,13 @@ Bølge
 ### 🪑 Chair Control
 BLE-based app for controlling a smart chair.
 
-### 🎓 Learn Norwegian
+### 🎓 Learn Norwegian 
 Structured language learning app for Norwegian practice.
 
 ### 🧸 Kids Language Game
 Educational language game for children.
 
-### 🏘️ Local Services
+### 🏘️ Local Services in the Look test
 Apps and tools for municipality / community use cases.
 
 ### 🧰 Stack

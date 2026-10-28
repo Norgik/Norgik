@@ -4,7 +4,7 @@ Independent iOS developer based in Ålesund, Norway.
 
 I build practical iPhone apps for real everyday situations — radio you can read, Norwegian for adults, detective games set by the fjord, and local services. From idea and design to code, testing and release, I do it all myself.
 
-🌐 Portfolio: [norgik.github.io](https://norgik.github.io/)
+🌐 Portfolio: [norgik.github.io](https://norgik.github.io/) · 📱 [All my apps on the App Store](https://apps.apple.com/no/developer/konstantin-krane/id1886210310)
 
 ---
 
@@ -15,15 +15,15 @@ Live, on-device transcription of news and talk radio, with Lock Screen, Dynamic 
 [App Store](https://apps.apple.com/no/app/b%C3%B8lge/id6762057664) · [Project page](https://norgik.github.io/bolge/)
 
 #### 🇳🇴 NorskFlow: Learn Norwegian
-Norwegian for adults, from beginner to advanced: lessons, dialogues, vocabulary and review built around real situations — work, the doctor, shopping, NAV and the tax office. Multilingual interface.
+A complete A1–B1 Norwegian course for adults, based on the official curriculum for adult immigrants: 70 lessons, 385 voiced dialogues, writing practice, grammar, spaced-repetition review, level tests and pronunciation practice with speech recognition. Available in English, Russian, Ukrainian, Polish and German.
 [App Store](https://apps.apple.com/no/app/norskflow-learn-norwegian/id6817462620) · [Project page](https://norgik.github.io/norskflow/)
 
 #### 🔍 The Fjord Detectives (Fjorddetektivene)
-A comic detective game from a small Norwegian fjord town. Search the scenes, question witnesses, catch the lies and prove who did it — with Turbo the dog on your side. Voices in four languages.
+A comic detective game from Sundvik, a small Norwegian fjord town. Ten connected cases: search the scenes, question witnesses, set statements against the evidence and prove who did it — with Turbo the dog on your side. Fully voiced in six languages.
 [App Store](https://apps.apple.com/no/app/the-fjord-detectives/id6821136616) · [Project page](https://norgik.github.io/sundvik/en/)
 
 #### 🔍 The Fjord Detectives 2
-The second season of cases in Sundvik.
+Season two moves to Havnesund: ten new cases in one story, starting with a night photo of a man walking out of the sea. Plays on its own — no need to have played season one.
 [App Store](https://apps.apple.com/no/app/the-fjord-detectives-2/id6823223651)
 
 ---
